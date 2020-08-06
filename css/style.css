@@ -1,0 +1,172 @@
+.headwrapper{
+	background-color: gray;
+	overflow: hidden;
+}
+.headlogo{
+	background-color: gray;
+	min-height: 100px;
+	float: left;
+	width: 10%;
+}
+.headtitle{
+	background-color: gray;
+	min-height: 100px;
+	width:80%;
+	font-family: sans-serif;
+	color: white;
+	font-size: 40px;
+	letter-spacing: 4px;
+	word-spacing: 4px;
+	text-align: center;
+	text-shadow:  1px 1px 2px red, 0 0 25px blue, 0 0 5px blue;
+	float: left;
+}
+.login{
+	background-color: gray;
+	min-height: 100px;
+	width: 10%;
+	float: left;
+	text-align: center;
+}
+.blogin{
+	background-color: gray;
+
+}
+.blogin:hover{
+	background-color:black ;
+}
+.menu{
+	background-color: teal;
+	min-height: 50px;
+	text-align: right;
+
+}
+.ul{
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+	overflow: hidden;
+	background-color: #333333;
+}
+
+.li {
+	float: left;
+	display: block;
+ 	color: white;
+ 	text-align: center;
+ 	padding: 16px;
+ 	text-decoration: none;
+}
+.li:hover {
+  background-color: #111111;
+  }
+.btn{
+	color: white;
+	padding: 16px 28px;
+	cursor: pointer;
+}
+.success{
+	background-color: green;
+}
+.success:hover{
+	background-color: #46a049;
+}
+.info{
+	background-color:#0b7dda ;
+}
+.info:hover{
+	background-color:#2196F3 ;
+}
+.warning{
+	background-color:#ff9800 ;
+}
+.warning:hover{
+	background-color:#e68a00 ;
+}.danger{
+	background-color:#da190b ;
+}
+.danger:hover{
+	background-color:#f44336 ;
+}
+.default{
+	background-color: black;
+}
+.default:hover{
+	background-color: gray;
+}
+.wrapper{
+	overflow: hidden;	
+}
+.blog{
+	min-height: 600px;
+	background-color: #C3A4A4;
+	box-shadow: 10px 10px 5px gray;
+	width: 70%;
+	float: left;
+	
+}
+.blogstyle{
+
+	color: tomato;
+	text-align: center;
+	font-size: 40px;
+	border: 3px solid green;
+	padding: 20px;
+	outline-offset: 10px;
+	outline: 50px solid lightgreen;
+	margin: 90px
+}
+.bloginfo{
+	background-color: lightgray;
+	font-size: 30px;
+	text-align: center;
+	padding: 20px;
+}
+.contact{
+	min-height: 300px;
+	width: 28%;
+	background-color: gray;
+	float: right;
+}
+.contactinfo{
+	background-color: #3A73F7;
+	font-family: sans-serif;
+	font-size: 20px;
+	color: white;
+	margin: 21px;
+	border-left: 7px solid red;
+	padding: 5px;
+	letter-spacing: 1px;
+}
+.linklogo{
+	text-align: center;
+	margin-top: 450px
+}
+.blog2{
+	min-height: 700px;
+	width: 80%;
+	background-color: white;
+	margin-left: 150px;
+	margin-right: 150px;
+	margin-top: 50px;
+
+}
+.contactme{
+	text-align: center;
+	font-size: 28px;
+	font-family: cursive;
+	font-style: none;
+	text-decoration-style: none;
+	margin-top: 45px;
+
+}
+.footer{
+	min-height: 37px;
+	background-color: #484848;
+	text-align: center;
+	width: 100%;
+	color: white;
+	font-family: monospace;
+	font-size: 28px;
+
+}
